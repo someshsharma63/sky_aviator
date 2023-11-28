@@ -1,0 +1,90 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebtn
+{
+    margin: 5px;
+    padding: 3px;
+}
+.sideimage
+{
+    height: 575px;
+}
+.sideimage img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.carasolhead
+{
+    color: #fff;
+}
+.carasolhead h5{
+    font-size: 50px;
+    font-weight: bold;
+}
+.carasolhead p
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+.founder
+{   
+padding: 20px;
+/* border: 1px solid; */
+margin: 5px;
+}
+.founder h3{
+    font-size: 23px;
+    color: #329099;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+}
+.founder h1{
+    font-size: 28px;
+    color: #1b2d5b;
+    font-weight: 800;
+}
+.founder p{
+    margin-top: 38px;
+    text-align: justify;
+    font-family: 'Jost', sans-serif;
+    color: #212529;
+    font-weight: bold ;
+}
+.foundercollege
+{
+    width: 208px;
+    height: 277px;
+
+}
+.foundercollege img
+{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+.annual {
+    width: 150px;
+    height: 215px;
+}
+.vidyasagar {
+    width: 396px;
+    height: 297px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.vidyasagar img
+{
+    width: 100%;
+    height: auto;
+}
+.annual h5{
+    font-size: 18px;
+    text-align: center;
+}
